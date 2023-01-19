@@ -51,7 +51,7 @@
 <div align="justify">
 Venho do mercado comercial, onde descobri minha paixão em ajudar as pessoas a encontrar soluções.
 
-Em determinado momento da minha carreira me vi deslumbrado pelo mercado de tecnologia, e por isso, atualmente eu curso a Trybe, onde me tornei desenvolvedor Web e me sinto realizado em ter a oportunidade de construir soluções escaláveis e de alto impacto na vida das pessoas. 
+Em determinado momento da minha carreira me vi deslumbrado pelo mercado de tecnologia, e por isso, cursei a Trybe (escola de Desenvolvimento Web), onde me tornei desenvolvedor Full Stack e me sinto realizado em ter a oportunidade de construir soluções escaláveis e de alto impacto na vida das pessoas. 
 
 </div>
 
