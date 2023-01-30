@@ -6,7 +6,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <b>Igor Hamzi!</b>, tenho 23 anos, sou de BH e sou programador web full stack.</i><br /><i>Atualmente estou em busca de um ambiente que seja um reflexo dos meus valores e que eu possa desenvolver minha constante busca por aprendizado e evolução pessoal e profissional..</i>
+<i><b>Olá</b> :wave:, sou o <b>Igor Hamzi!</b>, tenho 23 anos, sou de BH e sou programador web full stack.</i><br /><i>Atualmente estou em busca de um ambiente que seja um reflexo dos meus valores e que eu possa desenvolver minha constante busca por conhecimento e evolução pessoal e profissional.</i>
 </div>
 
 -----
